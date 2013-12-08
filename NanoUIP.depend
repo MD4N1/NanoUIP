@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1380167610 source:e:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\sistem interoperabilitas\project arduino\nanouip\fs.cpp
+
+1385808781 source:e:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\sistem interoperabilitas\project arduino\nanouip\httpd_fs.cpp
+	<NanodeUIP.h>
+	"uip.h"
+	"file_entry.h"
+	"httpd_fs.h"
+	"files.h"
+	"dir.h"
+
+1380167610 e:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\sistem interoperabilitas\project arduino\nanouip\file_entry.h
+
+1380167610 e:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\sistem interoperabilitas\project arduino\nanouip\files.h
+
+1380167610 e:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\sistem interoperabilitas\project arduino\nanouip\dir.h
+
+1385808532 source:e:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\sistem interoperabilitas\project arduino\nanouip\nanouip.ino
+	<Arduino.h>
+	<EtherShield.h>
+	<NanodeUIP.h>
+	<psock.h>
+	"httpd.h"
+	"printf.h"
+	"pins_cgi.h"
+	<NanodeUNIO.h>
+
+1371033101 e:\codeblocks-arduino baru\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362986950 e:\codeblocks-arduino baru\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362986950 e:\codeblocks-arduino baru\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371033133 e:\codeblocks-arduino baru\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362986950 e:\codeblocks-arduino baru\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371032829 e:\codeblocks-arduino baru\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362986950 e:\codeblocks-arduino baru\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362986950 e:\codeblocks-arduino baru\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362986950 e:\codeblocks-arduino baru\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362986950 e:\codeblocks-arduino baru\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362986950 e:\codeblocks-arduino baru\codeblocks\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1380167610 e:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\sistem interoperabilitas\project arduino\nanouip\printf.h
+
+1380167610 e:\bahan mata kuliah politeknik telkom\ganjil 2013-2014\sistem interoperabilitas\project arduino\nanouip\pins_cgi.h
+
